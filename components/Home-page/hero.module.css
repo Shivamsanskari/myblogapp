@@ -1,0 +1,24 @@
+.hero{
+    background-color: #2C3639;
+    padding: 4rem;
+    color: #fff;
+    text-align: center;
+}
+.hero h1{
+    font-size: 3rem;
+    margin: 4rem 0;
+}
+.hero p{
+    font-size: 2rem;
+    width: 90%;
+    margin: auto;
+    color: #c7f2ff;
+    max-width: 50rem;
+}
+.heroImage{
+    margin: auto;
+    border-radius: 50%;
+}
+.heroImage span{
+    border-radius: 50%;
+} 
