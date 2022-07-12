@@ -1,1 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Karla:wght@200&family=Poppins:wght@400;500;600&family=Source+Sans+Pro:wght@400;600;700&family=Space+Grotesk&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F0EBE3;
+}
