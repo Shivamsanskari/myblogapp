@@ -5,6 +5,7 @@ function Homepage() {
   return (
     <Fragment>
       <Hero />
+      <div>Hello</div>
       {/* <FeaturedPosts /> */}
     </Fragment>
   )
