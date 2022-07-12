@@ -1,3 +1,29 @@
 .navbar{
-    background-color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 1rem 4rem;
+    justify-content: space-between;
+    background-color: #384043;
+}
+.navbar .logo{
+    font-size: 3rem;
+    color: #beeeff;
+}
+.navbar .logo a{
+    color: #beeeff;
+}
+.navbar .navlinks{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .navlinks a{
+    font-size: 2rem;
+    text-decoration: none;
+    margin: 0 1rem;
+    color: rgb(205, 205, 205);
+}
+.navbar .navlinks a:hover{
+    color: #beeeff;
 }
