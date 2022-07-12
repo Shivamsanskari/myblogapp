@@ -1,8 +1,13 @@
 import React from 'react'
+import PostsGrid from '../posts/posts-grid'
+import classes from './featured-posts.module.css'
 
-function featuredPosts() {
+function featuredPosts(props) {
   return (
-    <div>featured Posts</div>
+    <section className={classes.featureSection}>
+      <h2>Featured Posts</h2>
+       <PostsGrid posts={props.post}/>
+    </section>
   )
 }
 
