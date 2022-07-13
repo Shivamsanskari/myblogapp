@@ -1,0 +1,12 @@
+.postHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    border-bottom: 3px solid rgb(69, 0, 109);
+}
+.postHeader h1{
+    font-size: 5rem;
+    color: rgb(92, 0, 126);
+}
