@@ -4,7 +4,7 @@ import React from 'react'
 import classes from './post-item.module.css';
 
 function PostItem(props) {
-    console.log(props);
+    // console.log(props);
     const { title, image, excerpt, date, slug} = props.post;
 
     const formattedDate = new Date(date).toLocaleDateString('en-US',{
