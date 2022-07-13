@@ -6,7 +6,7 @@ const DUMMY_POSTS = [
   {
     slug: 'javascript-padhoge-tabhi-badhoge', 
     title: 'Javascript Padhoge tabhi Badhoge', 
-    image: 'jss.png', 
+    image: 'gswnjs.png', 
     excerpt: 'Javascript is Awesome yaar.', 
     date: '2022-02-10'
    },
@@ -22,7 +22,7 @@ const DUMMY_POSTS = [
   {
     slug: 'javascript-padhoge-tabhi-badhoge2', 
     title: 'Javascript Padhoge tabhi Badhoge', 
-    image: 'jss.png', 
+    image: 'gswnjs.png', 
     excerpt: 'Javascript is Awesome yaar.', 
     date: '2022-02-10'
    },

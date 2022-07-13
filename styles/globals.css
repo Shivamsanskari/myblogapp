@@ -19,3 +19,10 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #F0EBE3;
 }
+.section{
+    padding: 4rem;
+}
+.section h2{
+    font-size: 4rem;
+    text-align: center;
+}

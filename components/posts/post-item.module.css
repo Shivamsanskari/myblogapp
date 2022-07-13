@@ -2,4 +2,15 @@
     max-width: 300px;
     margin: auto;
     text-align: center;
+    font-size: 1.5rem;
+}
+.listItem:hover img{
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+}
+.listItem h3,.listItem p{
+    color:rgb(44 54 57);
+} 
+.listItem time{
+    color: black;
 }
